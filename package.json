@@ -2,7 +2,6 @@
   "name": "gun",
   "version": "0.2020.1235",
   "description": "A realtime, decentralized, offline-first, graph data synchronization engine.",
-  "types": "index.d.ts",
   "main": "index.js",
   "browser": "browser.js",
   "ios": "browser.ios.js",
